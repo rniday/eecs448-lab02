@@ -1,6 +1,6 @@
 /**
 *	@author Ryan Niday
-*	@date 
+*	@date 8-30-2016
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
@@ -29,7 +29,7 @@ bool LinkedList<T>::isEmpty() const
 template <typename T>
 int LinkedList<T>::size() const
 {
-	/** TODO 
+	/** TODO
 		Fix this method
 	*/
 	return(0);
